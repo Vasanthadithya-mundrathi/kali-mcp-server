@@ -1,0 +1,25 @@
+{
+  "name": "kali-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP Server for Kali Linux Docker container",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.18.2",
+    "dockerode": "^4.0.8"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "mcp",
+    "kali",
+    "docker",
+    "penetration-testing",
+    "security"
+  ],
+  "author": "KiloCode",
+  "license": "MIT"
+}
