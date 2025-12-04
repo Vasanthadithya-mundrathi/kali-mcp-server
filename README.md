@@ -142,6 +142,7 @@ MIT License - See LICENSE file for details.
 
 For issues and feature requests, please create an issue in the repository.
 
+authors:vasanth, meghana
 ---
 
 **⚠️ Disclaimer:** This tool is for educational and authorized penetration testing only. Ensure you have permission before scanning any networks or systems.
